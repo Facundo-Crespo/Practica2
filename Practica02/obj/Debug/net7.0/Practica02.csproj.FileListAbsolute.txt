@@ -1,0 +1,12 @@
+C:\Users\Facu\Practica2\Practica02\bin\Debug\net7.0\Practica02.deps.json
+C:\Users\Facu\Practica2\Practica02\bin\Debug\net7.0\Practica02.dll
+C:\Users\Facu\Practica2\Practica02\bin\Debug\net7.0\Practica02.pdb
+C:\Users\Facu\Practica2\Practica02\obj\Debug\net7.0\Practica02.csproj.AssemblyReference.cache
+C:\Users\Facu\Practica2\Practica02\obj\Debug\net7.0\Practica02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facu\Practica2\Practica02\obj\Debug\net7.0\Practica02.AssemblyInfoInputs.cache
+C:\Users\Facu\Practica2\Practica02\obj\Debug\net7.0\Practica02.AssemblyInfo.cs
+C:\Users\Facu\Practica2\Practica02\obj\Debug\net7.0\Practica02.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Practica2\Practica02\obj\Debug\net7.0\Practica02.dll
+C:\Users\Facu\Practica2\Practica02\obj\Debug\net7.0\refint\Practica02.dll
+C:\Users\Facu\Practica2\Practica02\obj\Debug\net7.0\Practica02.pdb
+C:\Users\Facu\Practica2\Practica02\obj\Debug\net7.0\ref\Practica02.dll

@@ -106,7 +106,6 @@ namespace ProduccionBack.Data
                 DateTime fecha = Convert.ToDateTime(row["Fecha"]);
                 int formaPagoId = Convert.ToInt32(row["FormaPagoId"]);
                 string cliente = row["Cliente"].ToString();
-                int cantidad = Convert.ToInt32(row["Cantidad"]);
                 Factura fac = new Factura(id,formaPagoId,fecha,cliente);
 
                 lista.Add(fac);

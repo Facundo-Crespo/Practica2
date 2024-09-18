@@ -11,7 +11,7 @@ namespace ProduccionBack.Data
         
         private DBHelper()
         {
-            conexion = new SqlConnection("Server=127.0.0.1;Initial Catalog=Facturacion;Persist Security Info=False;User ID=meliDB;Password=1234;MultipleActiveResultSets=False;TrustServerCertificate=True;Connection Timeout=0");
+            conexion = new SqlConnection("Data Source=msi;Initial Catalog=Facturacion;Integrated Security=True");
         }
         
         public static DBHelper GetInstancia()
