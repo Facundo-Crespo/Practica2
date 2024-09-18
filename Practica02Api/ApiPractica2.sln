@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProduccionWebApi", "ProduccionWebApi.csproj", "{D01EB2D7-7177-457C-9B81-E63A482E34BC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActividadPractica2", "..\ProduccionBack\ActividadPractica2.csproj", "{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practica02", "..\Practica02\Practica02.csproj", "{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
