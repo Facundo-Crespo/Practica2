@@ -1,0 +1,25 @@
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\bin\Debug\net8.0\ActividadPractica2.deps.json
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\bin\Debug\net8.0\ActividadPractica2.dll
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\bin\Debug\net8.0\ActividadPractica2.pdb
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.csproj.AssemblyReference.cache
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.AssemblyInfoInputs.cache
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.AssemblyInfo.cs
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.csproj.CoreCompileInputs.cache
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.dll
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\refint\ActividadPractica2.dll
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.pdb
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ref\ActividadPractica2.dll
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\bin\Debug\net8.0\ActividadPractica2.deps.json
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\bin\Debug\net8.0\ActividadPractica2.dll
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\bin\Debug\net8.0\ActividadPractica2.pdb
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.csproj.AssemblyReference.cache
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.AssemblyInfoInputs.cache
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.AssemblyInfo.cs
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.csproj.CoreCompileInputs.cache
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.sourcelink.json
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.dll
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\obj\Debug\net8.0\refint\ActividadPractica2.dll
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\obj\Debug\net8.0\ActividadPractica2.pdb
+D:\GrupoWG\Actividad-practica-2\ProduccionBack\obj\Debug\net8.0\ref\ActividadPractica2.dll

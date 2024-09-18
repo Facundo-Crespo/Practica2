@@ -1,0 +1,36 @@
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\obj\Debug\net8.0\ProduccionBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\obj\Debug\net8.0\ProduccionBack.AssemblyInfoInputs.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\obj\Debug\net8.0\ProduccionBack.AssemblyInfo.cs
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\bin\Debug\net8.0\ProduccionBack.deps.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\bin\Debug\net8.0\ProduccionBack.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\bin\Debug\net8.0\ProduccionBack.pdb
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\obj\Debug\net8.0\ProduccionBack.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\obj\Debug\net8.0\refint\ProduccionBack.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\obj\Debug\net8.0\ProduccionBack.pdb
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionBack\obj\Debug\net8.0\ref\ProduccionBack.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\bin\Debug\net8.0\ProduccionBack.deps.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\bin\Debug\net8.0\ProduccionBack.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\bin\Debug\net8.0\ProduccionBack.pdb
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\obj\Debug\net8.0\ProduccionBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\obj\Debug\net8.0\ProduccionBack.AssemblyInfoInputs.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\obj\Debug\net8.0\ProduccionBack.AssemblyInfo.cs
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\obj\Debug\net8.0\ProduccionBack.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\obj\Debug\net8.0\refint\ProduccionBack.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\obj\Debug\net8.0\ProduccionBack.pdb
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionBack\obj\Debug\net8.0\ref\ProduccionBack.dll
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\bin\Debug\net8.0\ProduccionBack.deps.json
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\bin\Debug\net8.0\ProduccionBack.dll
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\bin\Debug\net8.0\ProduccionBack.pdb
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.AssemblyReference.cache
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ProduccionBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ProduccionBack.AssemblyInfoInputs.cache
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ProduccionBack.AssemblyInfo.cs
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.CoreCompileInputs.cache
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ProduccionBack.dll
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\refint\ProduccionBack.dll
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ProduccionBack.pdb
+C:\Users\pabli\Desktop\API modelo1w3\ProduccionBack\obj\Debug\net8.0\ref\ProduccionBack.dll
